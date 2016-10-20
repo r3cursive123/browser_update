@@ -8,7 +8,7 @@
 This tool runs from /var/www/html
 It ASSUMES you have the required tools intstalled:
 
-msfconsole :: 
+msfconsole ::\n 
 empire :: 
 xterm :: 
 i686-w64-ming32gcc :: 
@@ -20,7 +20,7 @@ the unicorn project is found here https://github.com/trustedsec/unicorn
 
 ##########
 #FUNCTIONS
-Create payload using either msfvenom OR unicron
+Create payload using either msfvenom OR unicorn
 Launch empire
 Create empire payload named: iempire.txt (NAME IT THAT!!!or edit the injectempire.rc file) - sadly this must be done manually ) unless someone has insight?!?!
 
