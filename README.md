@@ -6,14 +6,17 @@
 #INSTRUCTIONS
 
 This tool runs from /var/www/html
-It ASSUMES you have the required tools intstalled
+It ASSUMES you have the required tools intstalled:
 
-msfconsole
-empire
-xterm
-i686-w64-ming32gcc
-beef
-unicorn (included in this package)
+msfconsole :: 
+empire :: 
+xterm :: 
+i686-w64-ming32gcc :: 
+beef :: 
+unicorn (included in this package) :: 
+
+the unicorn project is found here https://github.com/trustedsec/unicorn
+**Props to Dave Kennedy for writing such a great tool
 
 ##########
 #FUNCTIONS
